@@ -14,7 +14,4 @@ This auditor operates entirely **Out-of-Band (OOB)**. By ingesting JSONL log str
 ```bash
 python sebi_auditor.py --stream trading_logs.jsonl
 
-## Proof of Execution
-![Terminal Output](terminal_output.png) 
-
 
